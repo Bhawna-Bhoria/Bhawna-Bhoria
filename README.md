@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhawna-Bhoria, a passionate data science student eager to explore the world of data and analytics.
+- 👋 Hi, I’m @Bhawna-Bhoria, a passionate data science ethusiast eager to explore the world of data and analytics.
 
 - 👀 I’m interested in a wide range of data science topics, including machine learning, data visualization, deep learning, and statistical analysis. I'm also fascinated by the potential of data to solve real-world problems and make informed decisions.
 
